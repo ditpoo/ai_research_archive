@@ -1,5 +1,7 @@
 speech, duplex
 
+open source as of may '25 with their best quality are 5 to 10x cheaper than commerical ones, if you have more requirement of 100 gen / hr
+
 xtts v2
 dia 1.6b
 fish speech 1.5g tts
