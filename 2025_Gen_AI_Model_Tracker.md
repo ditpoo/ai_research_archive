@@ -1,6 +1,14 @@
 speech, duplex
 
 open source as of may '25 with their best quality are 5 to 10x cheaper than commerical ones, if you have more requirement of 100 gen / hr
+[
+    model, test with base commercial ones.
+    try to replicate, enhance and continue with oss onen's on consumer (own) compute (at lower res/quality/model size/length)
+    have bulk batches of final generations.
+    Depending on requirement do them 
+        on oss on cloud (5 - 10x cheaper for bulk load) also faster with parallelism and more compute it scales
+        commercial ones web ui / api, (best quality etc) 
+]
 
 xtts v2
 dia 1.6b
